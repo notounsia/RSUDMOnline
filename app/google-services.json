@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "22201881017",
+    "project_id": "amppon-cb4e4",
+    "storage_bucket": "amppon-cb4e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22201881017:android:a715b2328e975e03fc2668",
+        "android_client_info": {
+          "package_name": "com.vaibhavmojidra.doctorsappointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22201881017-8p0ogq2m73okeumu1hn51svejkp8nrum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vaibhavmojidra.doctorsappointment",
+            "certificate_hash": "dea61d19269f426148bf7dddf388bd52e4cb865b"
+          }
+        },
+        {
+          "client_id": "22201881017-0tkdm758lvooih11qj5jbjsdfb5lduv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6hB5CAsdFyMPm6n9PjlRss9Tees4sRf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22201881017-0tkdm758lvooih11qj5jbjsdfb5lduv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
